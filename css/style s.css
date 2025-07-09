@@ -1,0 +1,14 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.box{
+    background-color: black;
+    color: white;
+    text-align: center;
+    border: 2px solid tomato;
+    /* first step width and height */
+    width: 300px;
+    height: 150px;
+}
