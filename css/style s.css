@@ -24,3 +24,15 @@ body{
     border:  2px solid #333;
     text-align: center;
 }
+
+.height-box{
+    width: 100%;
+    background-color: lightcoral;
+    margin-top: 20px;
+    padding: 20px;
+    border: 2px solid #333;
+    text-align: center;
+    max-height: 450px;
+    min-height: 150px;
+    overflow: auto;
+}
